@@ -1,0 +1,2 @@
+# sora-api-proxy
+神马聚合中转Sora2中转站_Sora2 API接口代理_Sora2 API中转服务_Sora2 API国内直连_Sora2文生视频_Sora2图生视频一体化平台，神马聚合中转API以高稳定性与聚合接入著称。支持Sora2文生视频、Sora2图生视频多模态生成，兼容各类AI接口。低价稳定的Sora2 API中转与接口代理方案，让国内开发者轻松使用Sora2 API国内节点，实现视频生成与创意输出自动化。
